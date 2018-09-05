@@ -1,0 +1,16 @@
+{
+    "name": "vendor/first",
+    "description": "firstProgram",
+    "authors": [
+        {
+            "name": "andrey i",
+            "email": "Andre302@mail.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
